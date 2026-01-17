@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-wzq7q63u"",
-  ""goal"": ""index builder for cache hydration"",
-  ""language"": ""rust"",
-  ""template"": ""rust-lib""
+    "name":  "rndproj-wzq7q63u",
+    "goal":  "index builder for cache hydration",
+    "language":  "rust",
+    "template":  "rust-lib"
 }
